@@ -1,0 +1,12 @@
+/Users/zendragon/src/rust/github/session10/rocketry/target/debug/deps/yansi-637edc17471cc68a.rmeta: /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs
+
+/Users/zendragon/src/rust/github/session10/rocketry/target/debug/deps/libyansi-637edc17471cc68a.rlib: /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs
+
+/Users/zendragon/src/rust/github/session10/rocketry/target/debug/deps/yansi-637edc17471cc68a.d: /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs
+
+/Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs:
+/Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs:
+/Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs:
+/Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs:
+/Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs:
+/Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs:

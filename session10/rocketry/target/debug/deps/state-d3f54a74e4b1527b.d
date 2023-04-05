@@ -1,0 +1,12 @@
+/Users/zendragon/src/rust/github/session10/rocketry/target/debug/deps/state-d3f54a74e4b1527b.rmeta: /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/Users/zendragon/src/rust/github/session10/rocketry/target/debug/deps/libstate-d3f54a74e4b1527b.rlib: /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/Users/zendragon/src/rust/github/session10/rocketry/target/debug/deps/state-d3f54a74e4b1527b.d: /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs:
+/Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs:
+/Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs:
+/Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs:
+/Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs:
+/Users/zendragon/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs:
